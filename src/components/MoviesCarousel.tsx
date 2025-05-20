@@ -1,4 +1,5 @@
 import MovieCard from "./MovieCard";
+import Slider from "react-slick";
 import Link from "next/link";
 
 export default function MoviesCarousel({
